@@ -1,0 +1,5 @@
+{ "dependencies": { "hono": "^4.6.9", "ytmusic-api": "^5.2.2" }, "name": "ytmusic-api", "module": "index.ts", "type": "module", "devDependencies": {
+  "@types/bun": "latest"
+}, "peerDependencies": {
+  "typescript": "^5.0.0"
+} }
